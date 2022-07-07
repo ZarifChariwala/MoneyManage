@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Money Manage</string>
+    <string name="money_manage">Money Manage</string>
+    <string name="enter_your_name">Enter Your Name:</string>
+    <string name="done">Done</string>
 </resources>
